@@ -1,3 +1,7 @@
+# React Info Site
+
+Super simple React info site from Scrimba React basics course.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

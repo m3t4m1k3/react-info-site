@@ -1,0 +1,26 @@
+.Header {
+  background-color: var(--darkergray);
+}
+
+.Header nav {
+  display: flex;
+  align-items: center;
+  padding: 20px 30px;
+}
+
+.Header img {
+  margin-right: 10px;
+}
+
+.Header h1 {
+  color: var(--blue);
+  margin-right: auto;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.Header p {
+  color: var(--lightgray);
+  font-size: 1.1rem;
+  font-weight: 600;
+}
