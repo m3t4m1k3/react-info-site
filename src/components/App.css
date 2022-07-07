@@ -1,2 +1,5 @@
 .App {
+  background-image: url(../images/reactjs-icon-large.png);
+  background-repeat: no-repeat;
+  background-position: right 75%;
 }
